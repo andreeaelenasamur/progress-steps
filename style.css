@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
 :root {
-    --line-border-fill: #3498db;
+    --line-border-fill: #70578d;
     --line-border-empty: #e0e0e0;
 }
 
@@ -72,6 +72,7 @@ body {
 
 .circle.active {
     border-color: var(--line-border-fill);
+    color: rgb(100, 92, 92);
 }
 
 .btn {
